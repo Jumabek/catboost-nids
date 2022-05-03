@@ -1,4 +1,5 @@
-# catboost-nids repo has the following intesm
+
+# Source code for paper "CatBoost-Based Network Intrusion Detection on Imbalanced CIC-IDS-2018 Dataset"
 ## Network Intrusion Detection on AWS CIC-IDS-2018 dataset
 ## Comparison of tree based classifiers
   - Catboost 
